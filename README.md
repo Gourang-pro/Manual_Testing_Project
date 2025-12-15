@@ -12,3 +12,5 @@ Expected Results: Every test case clearly defines expected results for each inte
 Reporting: The project encourages testers to document their findings using a standardized template. This includes logging bugs, screenshots, and detailed descriptions of encountered issues.
 
 Target Audience:
+
+This project is mainly for manual testing freshers, QA engineers, and software testing students who want to learn or practice testing an e-commerce application like OpenCart. It is also useful for automation testers as a reference for test cases and for anyone who wants to understand how real-time manual testing is done using clear test cases, scenarios, and expected results.
